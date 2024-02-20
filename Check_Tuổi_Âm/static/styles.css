@@ -1,0 +1,46 @@
+/* styles.css */
+
+/* Style for the form container */
+.form-container {
+    margin-bottom: 20px;
+}
+
+/* Style for the input and submit button */
+.input-field {
+    margin-right: 10px;
+}
+
+/* Style for the back button */
+.back-button {
+    background-color: #f44336;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.back-button:hover {
+    background-color: #d32f2f;
+}
+
+/* Style for the result table */
+.table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.result-table th, .result-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.result-table th {
+    background-color: #f2f2f2;
+}

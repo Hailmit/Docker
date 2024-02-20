@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Xem Tuổi</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        form {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <form action="/" method="post">
+        <label for="age">Nhập Tuổi (18-80):</label>
+        <input type="number" inputmode="numeric" id="age" name="age" required min="18" max="80">
+        <input type="submit" value="Xem">
+    </form>
+</body>
+</html>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Xem Tuổi</title>
+    <style> 
+        table {color:blue; text-align:center}
+    </style>
+</head>
+<body>
+    {% if user %}
+        <table border="1">
+            <tr>
+                <th>Sao Nam</th>
+                <th>Hạn Nam</th>
+                <th>Tuổi Âm</th>
+                <th>Sao Nữ</th>
+                <th>Hạn Nữ</th>
+            </tr>
+            <tr>
+                <td>{{ user.saomen }}</td>
+                <td>{{ user.hanmen }}</td>
+                <td>{{ user.age }}</td>
+                <td>{{ user.saonu }}</td>
+                <td>{{ user.hannu }}</td>
+            </tr>
+        </table>
+    {% elif error %}
+        <p>{{ error }}</p>
+    {% endif %}
+    <br>
+    <a href="/" style="text-decoration: none;"><button>Xem Lại</button></a>
+</body>
+</html>

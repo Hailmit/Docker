@@ -1,0 +1,499 @@
+[
+    {
+        "saomen": "MỘC ĐỨC",
+        "hanmen": "HUỲNH TIỀN",
+        "age": 18,
+        "saonu": "THỦY DIỆU",
+        "hannu": "TÁN TẬN"
+    },
+    {
+        "saomen": "LA HẦU",
+        "hanmen": "TAM KHEO",
+        "age": 19,
+        "saonu": "KẾ ĐÔ",
+        "hannu": "THIÊN TINH"
+    },
+    {
+        "saomen": "THỔ TÚ",
+        "hanmen": "TAM KHEO",
+        "age": 20,
+        "saonu": "VÂN HỚN",
+        "hannu": "THIÊN TINH"
+    },
+    {
+        "saomen": "THỦY DIỆU",
+        "hanmen": "NGŨ MỘ",
+        "age": 21,
+        "saonu": "MỘC ĐỨC",
+        "hannu": "NGŨ MỘ"
+    },
+    {
+        "saomen": "THÁI BẠCH",
+        "hanmen": "THIÊN TINH",
+        "age": 22,
+        "saonu": "THÁI ÂM",
+        "hannu": "TAM KHEO"
+    },
+    {
+        "saomen": "THÁI DƯƠNG",
+        "hanmen": "TÁN TẬN",
+        "age": 23,
+        "saonu": "THỔ TÚ",
+        "hannu": "HUỲNH TIỀN"
+    },
+    {
+        "saomen": "VÂN HỚN",
+        "hanmen": "THIÊN LA",
+        "age": 24,
+        "saonu": "LA HẦU",
+        "hannu": "DIÊM VƯƠNG"
+    },
+    {
+        "saomen": "KẾ ĐÔ",
+        "hanmen": "ĐỊA VÕNG",
+        "age": 25,
+        "saonu": "THÁI DƯƠNG",
+        "hannu": "ĐỊA VÕNG"
+    },
+    {
+        "saomen": "THÁI ÂM",
+        "hanmen": "DIÊM VƯƠNG",
+        "age": 26,
+        "saonu": "THÁI BẠCH",
+        "hannu": "THIÊN LA"
+    },
+    {
+        "saomen": "MỘC ĐỨC",
+        "hanmen": "HUỲNH TIỀN",
+        "age": 27,
+        "saonu": "THỦY DIỆU",
+        "hannu": "TÁN TẬN"
+    },
+    {
+        "saomen": "LA HẦU",
+        "hanmen": "TAM KHEO",
+        "age": 28,
+        "saonu": "KẾ ĐÔ",
+        "hannu": "THIÊN TINH"
+    },
+    {
+        "saomen": "THỔ TÚ",
+        "hanmen": "NGŨ MỘ",
+        "age": 29,
+        "saonu": "VÂN HỚN",
+        "hannu": "NGŨ MỘ"
+    },
+    {
+        "saomen": "THỦY DIỆU",
+        "hanmen": "NGŨ MỘ",
+        "age": 30,
+        "saonu": "MỘC ĐỨC",
+        "hannu": "NGŨ MỘ"
+    },
+    {
+        "saomen": "THÁI BẠCH",
+        "hanmen": "THIÊN TINH",
+        "age": 31,
+        "saonu": "THÁI ÂM",
+        "hannu": "TAM KHEO"
+    },
+    {
+        "saomen": "THÁI DƯƠNG",
+        "hanmen": "TÁN TẬN",
+        "age": 32,
+        "saonu": "THỔ TÚ",
+        "hannu": "HUỲNH TIỀN"
+    },
+    {
+        "saomen": "VÂN HỚN",
+        "hanmen": "THIÊN LA",
+        "age": 33,
+        "saonu": "LA HẦU",
+        "hannu": "DIÊM VƯƠNG"
+    },
+    {
+        "saomen": "KẾ ĐÔ",
+        "hanmen": "ĐỊA VÕNG",
+        "age": 34,
+        "saonu": "THÁI DƯƠNG",
+        "hannu": "ĐỊA VÕNG"
+    },
+    {
+        "saomen": "THÁI ÂM",
+        "hanmen": "DIÊM VƯƠNG",
+        "age": 35,
+        "saonu": "THÁI BẠCH",
+        "hannu": "THIÊN LA"
+    },
+    {
+        "saomen": "MỘC ĐỨC",
+        "hanmen": "HUỲNH TIỀN",
+        "age": 36,
+        "saonu": "THỦY DIỆU",
+        "hannu": "TÁN TẬN"
+    },
+    {
+        "saomen": "LA HẦU",
+        "hanmen": "TAM KHEO",
+        "age": 37,
+        "saonu": "KẾ ĐÔ",
+        "hannu": "THIÊN TINH"
+    },
+    {
+        "saomen": "THỔ TÚ",
+        "hanmen": "NGŨ MỘ",
+        "age": 38,
+        "saonu": "VÂN HỚN",
+        "hannu": "NGŨ MỘ"
+    },
+    {
+        "saomen": "THỦY DIỆU",
+        "hanmen": "THIÊN TINH",
+        "age": 39,
+        "saonu": "MỘC ĐỨC",
+        "hannu": "TAM KHEO"
+    },
+    {
+        "saomen": "THÁI BẠCH",
+        "hanmen": "THIÊN TINH",
+        "age": 40,
+        "saonu": "THÁI ÂM",
+        "hannu": "TAM KHEO"
+    },
+    {
+        "saomen": "THÁI DƯƠNG",
+        "hanmen": "TÁN TẬN",
+        "age": 41,
+        "saonu": "THỔ TÚ",
+        "hannu": "HUỲNH TIỀN"
+    },
+    {
+        "saomen": "VÂN HỚN",
+        "hanmen": "THIÊN LA",
+        "age": 42,
+        "saonu": "LA HẦU",
+        "hannu": "DIÊM VƯƠNG"
+    },
+    {
+        "saomen": "KẾ ĐÔ",
+        "hanmen": "ĐỊA VÕNG",
+        "age": 43,
+        "saonu": "THÁI DƯƠNG",
+        "hannu": "ĐỊA VÕNG"
+    },
+    {
+        "saomen": "THÁI ÂM",
+        "hanmen": "DIÊM VƯƠNG",
+        "age": 44,
+        "saonu": "THÁI BẠCH",
+        "hannu": "THIÊN LA"
+    },
+    {
+        "saomen": "MỘC ĐỨC",
+        "hanmen": "HUỲNH TIỀN",
+        "age": 45,
+        "saonu": "THỦY DIỆU",
+        "hannu": "TÁN TẬN"
+    },
+    {
+        "saomen": "LA HẦU",
+        "hanmen": "TAM KHEO",
+        "age": 46,
+        "saonu": "KẾ ĐÔ",
+        "hannu": "THIÊN TINH"
+    },
+    {
+        "saomen": "THỔ TÚ",
+        "hanmen": "NGŨ MỘ",
+        "age": 47,
+        "saonu": "VÂN HỚN",
+        "hannu": "NGŨ MỘ"
+    },
+    {
+        "saomen": "THỦY DIỆU",
+        "hanmen": "THIÊN TINH",
+        "age": 48,
+        "saonu": "MỘC ĐỨC",
+        "hannu": "TAM KHEO"
+    },
+    {
+        "saomen": "THÁI BẠCH",
+        "hanmen": "TÁN TẬN",
+        "age": 49,
+        "saonu": "THÁI ÂM",
+        "hannu": "HUỲNH TIỀN"
+    },
+    {
+        "saomen": "THÁI DƯƠNG",
+        "hanmen": "TÁN TẬN",
+        "age": 50,
+        "saonu": "THỔ TÚ",
+        "hannu": "HUỲNH TIỀN"
+    },
+    {
+        "saomen": "VÂN HỚN",
+        "hanmen": "THIÊN LA",
+        "age": 51,
+        "saonu": "LA HẦU",
+        "hannu": "DIÊM VƯƠNG"
+    },
+    {
+        "saomen": "KẾ ĐÔ",
+        "hanmen": "ĐỊA VÕNG",
+        "age": 52,
+        "saonu": "THÁI DƯƠNG",
+        "hannu": "ĐỊA VÕNG"
+    },
+    {
+        "saomen": "THÁI ÂM",
+        "hanmen": "DIÊM VƯƠNG",
+        "age": 53,
+        "saonu": "THÁI BẠCH",
+        "hannu": "THIÊN LA"
+    },
+    {
+        "saomen": "MỘC ĐỨC",
+        "hanmen": "HUỲNH TIỀN",
+        "age": 54,
+        "saonu": "THỦY DIỆU",
+        "hannu": "TÁN TẬN"
+    },
+    {
+        "saomen": "LA HẦU",
+        "hanmen": "TAM KHEO",
+        "age": 55,
+        "saonu": "KẾ ĐÔ",
+        "hannu": "THIÊN TINH"
+    },
+    {
+        "saomen": "THỔ TÚ",
+        "hanmen": "NGŨ MỘ",
+        "age": 56,
+        "saonu": "VÂN HỚN",
+        "hannu": "NGŨ MỘ"
+    },
+    {
+        "saomen": "THỦY DIỆU",
+        "hanmen": "THIÊN TINH",
+        "age": 57,
+        "saonu": "MỘC ĐỨC",
+        "hannu": "TAM KHEO"
+    },
+    {
+        "saomen": "THÁI BẠCH",
+        "hanmen": "TÁN TẬN",
+        "age": 58,
+        "saonu": "THÁI ÂM",
+        "hannu": "HUỲNH TIỀN"
+    },
+    {
+        "saomen": "THÁI DƯƠNG",
+        "hanmen": "THIÊN LA",
+        "age": 59,
+        "saonu": "THỔ TÚ",
+        "hannu": "DIÊM VƯƠNG"
+    },
+    {
+        "saomen": "VÂN HỚN",
+        "hanmen": "THIÊN LA",
+        "age": 60,
+        "saonu": "LA HẦU",
+        "hannu": "DIÊM VƯƠNG"
+    },
+    {
+        "saomen": "KẾ ĐÔ",
+        "hanmen": "ĐỊA VÕNG",
+        "age": 61,
+        "saonu": "THÁI DƯƠNG",
+        "hannu": "ĐỊA VÕNG"
+    },
+    {
+        "saomen": "THÁI ÂM",
+        "hanmen": "DIÊM VƯƠNG",
+        "age": 62,
+        "saonu": "THÁI BẠCH",
+        "hannu": "THIÊN LA"
+    },
+    {
+        "saomen": "MỘC ĐỨC",
+        "hanmen": "HUỲNH TIỀN",
+        "age": 63,
+        "saonu": "THỦY DIỆU",
+        "hannu": "TÁN TẬN"
+    },
+    {
+        "saomen": "LA HẦU",
+        "hanmen": "TAM KHEO",
+        "age": 64,
+        "saonu": "KẾ ĐÔ",
+        "hannu": "THIÊN TINH"
+    },
+    {
+        "saomen": "THỔ TÚ",
+        "hanmen": "NGŨ MỘ",
+        "age": 65,
+        "saonu": "VÂN HỚN",
+        "hannu": "NGŨ MỘ"
+    },
+    {
+        "saomen": "THỦY DIỆU",
+        "hanmen": "THIÊN TINH",
+        "age": 66,
+        "saonu": "MỘC ĐỨC",
+        "hannu": "TAM KHEO"
+    },
+    {
+        "saomen": "THÁI BẠCH",
+        "hanmen": "TÁN TẬN",
+        "age": 67,
+        "saonu": "THÁI ÂM",
+        "hannu": "HUỲNH TIỀN"
+    },
+    {
+        "saomen": "THÁI DƯƠNG",
+        "hanmen": "THIÊN LA",
+        "age": 68,
+        "saonu": "THỔ TÚ",
+        "hannu": "DIÊM VƯƠNG"
+    },
+    {
+        "saomen": "VÂN HỚN",
+        "hanmen": "ĐỊA VÕNG",
+        "age": 69,
+        "saonu": "LA HẦU",
+        "hannu": "ĐỊA VÕNG"
+    },
+    {
+        "saomen": "KẾ ĐÔ",
+        "hanmen": "ĐỊA VÕNG",
+        "age": 70,
+        "saonu": "THÁI DƯƠNG",
+        "hannu": "ĐỊA VÕNG"
+    },
+    {
+        "saomen": "THÁI ÂM",
+        "hanmen": "DIÊM VƯƠNG",
+        "age": 71,
+        "saonu": "THÁI BẠCH",
+        "hannu": "THIÊN LA"
+    },
+    {
+        "saomen": "MỘC ĐỨC",
+        "hanmen": "HUỲNH TIỀN",
+        "age": 72,
+        "saonu": "THỦY DIỆU",
+        "hannu": "TÁN TẬN"
+    },
+    {
+        "saomen": "LA HẦU",
+        "hanmen": "TAM KHEO",
+        "age": 73,
+        "saonu": "KẾ ĐÔ",
+        "hannu": "THIÊN TINH"
+    },
+    {
+        "saomen": "THỔ TÚ",
+        "hanmen": "NGŨ MỘ",
+        "age": 74,
+        "saonu": "VÂN HỚN",
+        "hannu": "NGŨ MỘ"
+    },
+    {
+        "saomen": "THỦY DIỆU",
+        "hanmen": "THIÊN TINH",
+        "age": 75,
+        "saonu": "MỘC ĐỨC",
+        "hannu": "TAM KHEO"
+    },
+    {
+        "saomen": "THÁI BẠCH",
+        "hanmen": "TÁN TẬN",
+        "age": 76,
+        "saonu": "THÁI ÂM",
+        "hannu": "HUỲNH TIỀN"
+    },
+    {
+        "saomen": "THÁI DƯƠNG",
+        "hanmen": "THIÊN LA",
+        "age": 77,
+        "saonu": "THỔ TÚ",
+        "hannu": "DIÊM VƯƠNG"
+    },
+    {
+        "saomen": "VÂN HỚN",
+        "hanmen": "ĐỊA VÕNG",
+        "age": 78,
+        "saonu": "LA HẦU",
+        "hannu": "ĐỊA VÕNG"
+    },
+    {
+        "saomen": "KẾ ĐÔ",
+        "hanmen": "DIÊM VƯƠNG",
+        "age": 79,
+        "saonu": "THÁI DƯƠNG",
+        "hannu": "THIÊN LA"
+    },
+    {
+        "saomen": "THÁI ÂM",
+        "hanmen": "DIÊM VƯƠNG",
+        "age": 80,
+        "saonu": "THÁI BẠCH",
+        "hannu": "THIÊN LA"
+    },
+    {
+        "saomen": "MỘC ĐỨC",
+        "hanmen": "HUỲNH TIỀN",
+        "age": 81,
+        "saonu": "THỦY DIỆU",
+        "hannu": "TÁN TẬN"
+    },
+    {
+        "saomen": "LA HẦU",
+        "hanmen": "TAM KHEO",
+        "age": 82,
+        "saonu": "KẾ ĐÔ",
+        "hannu": "THIÊN TINH"
+    },
+    {
+        "saomen": "THỔ TÚ",
+        "hanmen": "NGŨ MỘ",
+        "age": 83,
+        "saonu": "VÂN HỚN",
+        "hannu": "NGŨ MỘ"
+    },
+    {
+        "saomen": "THỦY DIỆU",
+        "hanmen": "THIÊN TINH",
+        "age": 84,
+        "saonu": "MỘC ĐỨC",
+        "hannu": "TAM KHEO"
+    },
+    {
+        "saomen": "THÁI BẠCH",
+        "hanmen": "TÁN TẬN",
+        "age": 85,
+        "saonu": "THÁI ÂM",
+        "hannu": "HUỲNH TIỀN"
+    },
+    {
+        "saomen": "THÁI DƯƠNG",
+        "hanmen": "THIÊN LA",
+        "age": 86,
+        "saonu": "THỔ TÚ",
+        "hannu": "DIÊM VƯƠNG"
+    },
+    {
+        "saomen": "VÂN HỚN",
+        "hanmen": "ĐỊA VÕNG",
+        "age": 87,
+        "saonu": "LA HẦU",
+        "hannu": "ĐỊA VÕNG"
+    },
+    {
+        "saomen": "KẾ ĐÔ",
+        "hanmen": "DIÊM VƯƠNG",
+        "age": 88,
+        "saonu": "THÁI DƯƠNG",
+        "hannu": "THIÊN LA"
+    }
+]
