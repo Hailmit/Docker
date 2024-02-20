@@ -4,7 +4,7 @@ import json
 app = Flask(__name__)
 
 # Load sample data from JSON file
-with open('sample.json', encoding='utf-8-sig') as f:
+with open('data.json', encoding='utf-8-sig') as f:
     sample_data = json.load(f)
 
 
